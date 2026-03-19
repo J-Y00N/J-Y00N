@@ -13,6 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.png">
+  <img alt="J-Y00N profile header" src="./assets/header-light.png">
+</picture> -->
+
+
 <h1 align="center">Hi, I'm J-Y00N</h1>
 <p align="center">
   Prospective graduate student interested in Statistics, Data Science, BCI, Computational Neuroscience, and Applied Mathematics
@@ -66,6 +73,5 @@ inference, signal processing, and neural data analysis meet.
 
 ## Contact
 
-- **GitHub:** [J-Y00N](https://github.com/J-Y00N)
+- **GitHub Pages:** [J. GitHub Pages](https://j-y00n.github.io/)
 - **Email:** [@]
-- **Blog / Portfolio:** [J. GitHub Pages](https://j-y00n.github.io/)
