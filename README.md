@@ -73,5 +73,5 @@ inference, signal processing, and neural data analysis meet.
 
 ## Contact
 
-- **GitHub Pages:** [J. GitHub Pages](https://j-y00n.github.io/)
+- **GitHub Pages:** [J. Yoon](https://j-y00n.github.io/)
 - **Email:** [@]
