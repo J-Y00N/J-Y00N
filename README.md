@@ -30,3 +30,42 @@ My recent work includes:
 - Python-based machine learning workflows
 - Computational approaches to brain and physiological data
 
+## Research Interests
+
+- Statistics and statistical learning
+- Data science
+- Brain-computer interfaces
+- Computational neuroscience
+- Applied mathematics
+- Machine learning for biosignals
+
+## Tech
+
+- **Language:** Python
+- **Focus:** machine learning, statistical modeling, biosignal analysis
+- **Strengths:** experiment design, reproducible workflows, research-oriented implementation
+
+## Selected Projects
+
+### [EEG Motor Imagery Classification](https://github.com/J-Y00N/EEG-Motor-Imagery-Classification)
+A research-oriented project on decoding motor imagery from EEG signals.
+- Bronze Prize at KNOU Statistics & Data Analysis Competition '25
+
+### [ECG Arrhythmia Classification](https://github.com/J-Y00N/ECG-Arrhythmia-Classification-ResNet)
+A deep learning project on ECG heartbeat classification with a reusable Python pipeline.
+- Silver Prize at KNOU Statistics & Data Analysis Competition '24
+
+
+## Long-Term Goal
+
+I plan to pursue graduate study and research at the intersection of
+statistics, machine learning, neuroscience, and mathematical modeling.
+
+I am especially interested in problems where
+inference, signal processing, and neural data analysis meet.
+
+## Contact
+
+- **GitHub:** [J-Y00N](https://github.com/J-Y00N)
+- **Email:** [@]
+- **Blog / Portfolio:** [J-Y00N GitHub Pages](https://j-y00n.github.io/)
