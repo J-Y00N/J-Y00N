@@ -13,65 +13,39 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.png">
-  <img alt="J-Y00N profile header" src="./assets/header-light.png">
-</picture> -->
+# J. YOON
 
+Prospective graduate researcher in applied mathematics, statistics, and computational neuroscience.
 
-<h1 align="center">Hi, I'm J-Y00N</h1>
-<p align="center">
-  Prospective graduate student interested in Statistics, Data Science, BCI, Computational Neuroscience, and Applied Mathematics
-</p>
-
----
-
-## About Me
-
-I am interested in building principled and reproducible methods for biological signal analysis.
-
-My recent work includes:
-- EEG motor imagery classification
-- ECG arrhythmia classification
-- Python-based machine learning workflows
-- Computational approaches to brain and physiological data
+I am interested in statistically grounded and reproducible approaches to biosignal analysis, with particular emphasis on brain–computer interfaces, neural signal decoding, and machine learning for physiological time series.
 
 ## Research Interests
 
-- Statistics and statistical learning
+- Statistical learning and inference
 - Data science
-- Brain-computer interfaces
+- Brain–computer interfaces
 - Computational neuroscience
 - Applied mathematics
+
+## Technical Focus
+
+- Primary language: Python
+- Signal processing
 - Machine learning for biosignals
+- Reproducible experimentation
 
-## Tech
+## Current Work
 
-- **Language:** Python
-- **Focus:** machine learning, statistical modeling, biosignal analysis
-- **Strengths:** experiment design, reproducible workflows, research-oriented implementation
+My recent work centers on Python-based workflows for preprocessing, modeling, and evaluation in biosignal analysis, especially EEG and ECG.
 
 ## Selected Projects
 
 ### [EEG Motor Imagery Classification](https://github.com/J-Y00N/EEG-Motor-Imagery-Classification)
-A research-oriented project on decoding motor imagery from EEG signals.
-- Bronze Prize at KNOU Statistics & Data Analysis Competition '25
+Research-oriented work on EEG-based motor imagery classification for brain–computer interface applications.
 
-### [ECG Arrhythmia Classification](https://github.com/J-Y00N/ECG-Arrhythmia-Classification-ResNet)
-A deep learning project on ECG heartbeat classification with a reusable Python pipeline.
-- Silver Prize at KNOU Statistics & Data Analysis Competition '24
+### [ECG Arrhythmia Classification with ResNet](https://github.com/J-Y00N/ECG-Arrhythmia-Classification-ResNet)
+A deep learning pipeline for ECG heartbeat classification and arrhythmia analysis.
 
+## Graduate Study Goal
 
-## Long-Term Goal
-
-I plan to pursue graduate study and research at the intersection of
-statistics, machine learning, neuroscience, and mathematical modeling.
-
-I am especially interested in problems where
-inference, signal processing, and neural data analysis meet.
-
-## Contact
-
-- **GitHub Pages:** [J. Yoon](https://j-y00n.github.io/)
-- **Email:** [@]
+I plan to pursue graduate study at the intersection of applied mathematics, statistics, machine learning, and computational neuroscience, with the long-term goal of developing mathematically grounded methods for neural and physiological data analysis.
