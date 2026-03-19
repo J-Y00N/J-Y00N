@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://komarev.com/ghpvc/?username=J-Y00N&color=green)
+
 # J. YOON
 
 Prospective graduate researcher in applied mathematics, statistics, and computational neuroscience.
