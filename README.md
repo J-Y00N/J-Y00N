@@ -12,12 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 # J. YOON
 
 Prospective graduate researcher in applied mathematics, statistics, and computational neuroscience.
 
-I am interested in statistically grounded and reproducible approaches to biosignal analysis, with particular emphasis on brain–computer interfaces, neural signal decoding, and machine learning for physiological time series.
+My interests lie in statistically grounded and reproducible methods for biosignal analysis, particularly in brain–computer interfaces, neural signal decoding, and machine learning for physiological time series.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-Research%20Code-555555?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-Modeling-555555?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/MNE-EEG%20Analysis-555555?style=flat-square" alt="MNE" />
+</p>
 
 ## Research Interests
 
@@ -30,21 +35,27 @@ I am interested in statistically grounded and reproducible approaches to biosign
 ## Technical Focus
 
 - Primary language: Python
-- Signal processing
-- Machine learning for biosignals
-- Reproducible experimentation
-
-## Current Work
-
-My recent work centers on Python-based workflows for preprocessing, modeling, and evaluation in biosignal analysis, especially EEG and ECG.
+- Core tools: PyTorch, MNE
+- Methodological emphasis: signal processing, statistical learning, and reproducible experimentation
+- Application domain: EEG and ECG biosignal analysis
 
 ## Selected Projects
 
 ### [EEG Motor Imagery Classification](https://github.com/J-Y00N/EEG-Motor-Imagery-Classification)
-Research-oriented work on EEG-based motor imagery classification for brain–computer interface applications.
+
+An EEG motor imagery classification pipeline with unified preprocessing and clearly separated within-subject, subject-independent, and transfer protocols on BNCI2014_001, comparing classical, Riemannian, and EEGNet baselines.
+
+- Bronze Prize, KNOU Statistics & Data Analysis Competition '25
 
 ### [ECG Arrhythmia Classification with ResNet](https://github.com/J-Y00N/ECG-Arrhythmia-Classification-ResNet)
-A deep learning pipeline for ECG heartbeat classification and arrhythmia analysis.
+
+A refactored Python pipeline for five-class arrhythmia classification on MIT-BIH beat-level ECG data, with modular training, augmentation ablations, and reusable experiment artifacts.
+
+- Silver Prize, KNOU Statistics & Data Analysis Competition '24
+
+## Current Directions
+
+I am interested in problems where statistical inference, signal processing, and machine learning meet neural and physiological data. My recent work has focused on Python-based workflows for preprocessing, modeling, and evaluation in EEG and ECG analysis.
 
 ## Graduate Study Goal
 
